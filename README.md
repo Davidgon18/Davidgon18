@@ -39,8 +39,8 @@ Hey!! Me chamo David Henrique, cursando Sistemas de Computação na UFF e estuda
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 -->
 
-[![Thayssa's github stats](https://github-readme-stats.vercel.app/api?username=thayssa-souza&show_icons=true&theme=merko)](https://github.com/Davidharaujo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayssa-souza&layout=compact&theme=merko)](https://github.com/Davidharaujo/github-readme-stats)
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=thayssa-souza&show_icons=true&theme=merko)](https://github.com/Davidharaujo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidharaujo&layout=compact&theme=merko)](https://github.com/Davidharaujo/github-readme-stats)
 
   <div> 
  
